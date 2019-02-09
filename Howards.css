@@ -1,0 +1,46 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border: 2px solid black;
+	background-image: linear-gradient(red, yellow);
+	position: sticky;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+body {
+	margin: 0;
+	border: none;
+}
+
+a {
+	color: gold;
+}
+
+img {
+    float: center;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+.grid-container {
+	display: grid;
+	text-align: center;
+}
+
+.grid-item {
+	border: 2px solid black;
+	background-image: linear-gradient(purple, blue);
+	color: lightblue;
+}
+
+.dragons {
+	
+}
